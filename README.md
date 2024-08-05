@@ -1,3 +1,4 @@
+![logo](https://github.com/AkashTolange/AkashTolange/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Akash Tolange</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
